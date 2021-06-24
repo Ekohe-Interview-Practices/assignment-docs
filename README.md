@@ -25,7 +25,7 @@ The main idea of the solution is a hypothetical system with these following part
 
 - (**C**) ...
 
-![](solution/runtime 2.png)
+![](./solution/runtime2.png)
 
 
 
