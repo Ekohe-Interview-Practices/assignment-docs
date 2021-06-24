@@ -14,24 +14,24 @@ The main idea of the solution is a hypothetical system with these following part
 
   - ⚙ PostgreSQL, Rails 6, Ruby 3, [Hotwired](https://hotwire.dev/), *Material components*[1]. 
 
-  - 🚀 Rails app and Database deployed to Heroku. (CI)
-  - 📃 Details at the **[Github project ekohe-backend](https://github.com/Ekohe-Interview-Practices/ekohe-backend)**.
+  - 🚀 Rails app and Database deployed (CI) to Heroku.
+  - ▶  **[Github project ekohe-backend](https://github.com/Ekohe-Interview-Practices/ekohe-backend)**.
 
 - (**B**) The frontend as an Angular app that in adition to the assignment can invoke our API.
 
   - ⚙ Angular 12 with Angular Material. Standard CSS media queries.
-  - 🚀 Static app deployed to [Cloudflare Pages](https://pages.cloudflare.com/). (CI)
-  - 📃 Details at the **[Github project ekohe-frontend](https://github.com/Ekohe-Interview-Practices/ekohe-frontend)**.
+  - 🚀 Static app deployed (CI) to Cloudflare Pages.
+  - ▶ **[Github project ekohe-frontend](https://github.com/Ekohe-Interview-Practices/ekohe-frontend)**.
 
-- (**C**) 
+- (**C**) ...
 
-![](solution/runtime.png)
+![](solution/runtime 2.png)
 
 
 
 ## Notes
 
-**[1]** It refers to [pure implementation of material for web](https://material.io/develop/web/getting-started), could be any choice like TailwindCSS, Boostrap, etc, or even just Rails Admin if preferable. BUT nothing it's finished right now on that direction.
+**[1]** It refers to [pure implementation of material for web](https://material.io/develop/web/getting-started), could be any choice like TailwindCSS, Boostrap, etc, or even just Rails Admin if preferable. BUT nothing it's really implemented.
 
 
 
